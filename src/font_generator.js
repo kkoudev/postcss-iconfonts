@@ -221,6 +221,7 @@ const FONT_GENERATORS = {
         // append simple glyphs
         simpleGlyphs.push({
           name,
+          file,
           codepoint: currentCodePoint
         });
 
